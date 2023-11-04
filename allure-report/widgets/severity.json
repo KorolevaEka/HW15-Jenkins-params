@@ -1,0 +1,1 @@
+[{"uid":"2278e6a892871e73","name":"Регистрация нового пользователя","time":{"start":1698856814719,"stop":1698856833797,"duration":19078},"status":"passed","severity":"blocker"},{"uid":"e67ba1e7faba7f67","name":"Заполнение формы без проверки","time":{"start":1698856833914,"stop":1698856840787,"duration":6873},"status":"passed","severity":"normal"}]
